@@ -1,0 +1,1384 @@
+{
+	"spins": [
+		[
+			{
+				"basespin": {
+					"wonCredits": 0,
+					"freeGames": 0,
+					"bonusWon": [],
+					"wonPrizes": [],
+					"reelsSlices": [
+						[
+							13,
+							10,
+							10,
+							13
+						],
+						[
+							10,
+							4,
+							9,
+							10
+						],
+						[
+							13,
+							13,
+							9,
+							12
+						],
+						[
+							12,
+							4,
+							11,
+							11
+						],
+						[
+							7,
+							7,
+							9,
+							2
+						],
+						[
+							10,
+							4,
+							9,
+							5
+						]
+					],
+					"bonusWonIndex": -1
+				}
+			}
+		],
+		[
+			{
+				"basespin": {
+					"wonCredits": 0,
+					"freeGames": 0,
+					"bonusWon": [],
+					"wonPrizes": [],
+					"reelsSlices": [
+						[
+							3,
+							11,
+							11,
+							12
+						],
+						[
+							13,
+							4,
+							9,
+							9
+						],
+						[
+							9,
+							9,
+							11,
+							11
+						],
+						[
+							4,
+							10,
+							10,
+							7
+						],
+						[
+							4,
+							9,
+							5,
+							7
+						],
+						[
+							11,
+							2,
+							10,
+							1
+						]
+					],
+					"bonusWonIndex": -1
+				}
+			},
+			{
+				"basespin": {
+					"wonCredits": 0,
+					"freeGames": 0,
+					"bonusWon": [],
+					"wonPrizes": [],
+					"reelsSlices": [
+						[
+							11,
+							8,
+							8,
+							6
+						],
+						[
+							6,
+							6,
+							10,
+							4
+						],
+						[
+							13,
+							3,
+							11,
+							11
+						],
+						[
+							11,
+							12,
+							12,
+							13
+						],
+						[
+							3,
+							10,
+							9,
+							7
+						],
+						[
+							4,
+							8,
+							10,
+							3
+						]
+					],
+					"bonusWonIndex": -1
+				}
+			},
+			{
+				"basespin": {
+					"wonCredits": 40,
+					"freeGames": 0,
+					"bonusWon": [],
+					"wonPrizes": [
+						{
+							"name": "LOW8",
+							"nextStage": "",
+							"prizeType": "",
+							"symbols": [
+								{
+									"symbolIndex": 13,
+									"name": "LOW8",
+									"reel": 0,
+									"position": 3
+								},
+								{
+									"symbolIndex": 13,
+									"name": "LOW8",
+									"reel": 1,
+									"position": 0
+								},
+								{
+									"symbolIndex": 13,
+									"name": "LOW8",
+									"reel": 1,
+									"position": 1
+								},
+								{
+									"symbolIndex": 13,
+									"name": "LOW8",
+									"reel": 2,
+									"position": 0
+								},
+								{
+									"symbolIndex": 13,
+									"name": "LOW8",
+									"reel": 2,
+									"position": 1
+								},
+								{
+									"symbolIndex": 13,
+									"name": "LOW8",
+									"reel": 3,
+									"position": 0
+								}
+							],
+							"type": 1,
+							"pattern": 0,
+							"kind": 2,
+							"payline": 0,
+							"marker": -1,
+							"hits": 4,
+							"wonCredits": 40,
+							"multiplier": 1,
+							"bonusIndex": 0,
+							"coordinates": null,
+							"bonus": false
+						}
+					],
+					"reelsSlices": [
+						[
+							6,
+							6,
+							3,
+							13
+						],
+						[
+							13,
+							13,
+							4,
+							2
+						],
+						[
+							13,
+							13,
+							6,
+							3
+						],
+						[
+							13,
+							3,
+							9,
+							12
+						],
+						[
+							4,
+							7,
+							3,
+							3
+						],
+						[
+							12,
+							4,
+							8,
+							10
+						]
+					],
+					"bonusWonIndex": -1
+				}
+			},
+			{
+				"cascade": {
+					"wonCredits": 5,
+					"freeGames": 0,
+					"bonusWon": [],
+					"wonPrizes": [
+						{
+							"name": "LOW5",
+							"nextStage": "",
+							"prizeType": "",
+							"symbols": [
+								{
+									"symbolIndex": 10,
+									"name": "LOW5",
+									"reel": 0,
+									"position": 0
+								},
+								{
+									"symbolIndex": 10,
+									"name": "LOW5",
+									"reel": 1,
+									"position": 2
+								},
+								{
+									"symbolIndex": 10,
+									"name": "LOW5",
+									"reel": 2,
+									"position": 0
+								}
+							],
+							"type": 1,
+							"pattern": 0,
+							"kind": 2,
+							"payline": 0,
+							"marker": -1,
+							"hits": 3,
+							"wonCredits": 5,
+							"multiplier": 1,
+							"bonusIndex": 0,
+							"coordinates": null,
+							"bonus": false
+						}
+					],
+					"reelsSlices": [
+						[
+							10,
+							13,
+							6,
+							6,
+							3
+						],
+						[
+							5,
+							14,
+							10,
+							4,
+							2
+						],
+						[
+							10,
+							5,
+							12,
+							6,
+							3
+						],
+						[
+							8,
+							14,
+							3,
+							9,
+							12
+						],
+						[
+							11,
+							4,
+							7,
+							3,
+							3
+						],
+						[
+							3,
+							12,
+							4,
+							8,
+							10
+						]
+					],
+					"bonusWonIndex": -1
+				}
+			},
+			{
+				"cascade": {
+					"wonCredits": 0,
+					"freeGames": 0,
+					"bonusWon": [],
+					"wonPrizes": [],
+					"reelsSlices": [
+						[
+							9,
+							10,
+							13,
+							6,
+							6,
+							3
+						],
+						[
+							2,
+							12,
+							5,
+							14,
+							4,
+							2
+						],
+						[
+							8,
+							10,
+							5,
+							12,
+							6,
+							3
+						],
+						[
+							11,
+							8,
+							14,
+							3,
+							9,
+							12
+						],
+						[
+							13,
+							11,
+							4,
+							7,
+							3,
+							3
+						],
+						[
+							3,
+							3,
+							12,
+							4,
+							8,
+							10
+						]
+					],
+					"bonusWonIndex": -1
+				}
+			},
+			{
+				"basespin": {
+					"wonCredits": 0,
+					"freeGames": 0,
+					"bonusWon": [],
+					"wonPrizes": [],
+					"reelsSlices": [
+						[
+							9,
+							9,
+							7,
+							7
+						],
+						[
+							2,
+							2,
+							6,
+							6
+						],
+						[
+							2,
+							9,
+							9,
+							11
+						],
+						[
+							3,
+							10,
+							10,
+							13
+						],
+						[
+							11,
+							13,
+							2,
+							9
+						],
+						[
+							7,
+							11,
+							2,
+							12
+						]
+					],
+					"bonusWonIndex": -1
+				}
+			},
+			{
+				"basespin": {
+					"wonCredits": 120,
+					"freeGames": 0,
+					"bonusWon": [],
+					"wonPrizes": [
+						{
+							"name": "LOW2",
+							"nextStage": "",
+							"prizeType": "",
+							"symbols": [
+								{
+									"symbolIndex": 7,
+									"name": "LOW2",
+									"reel": 0,
+									"position": 2
+								},
+								{
+									"symbolIndex": 7,
+									"name": "LOW2",
+									"reel": 0,
+									"position": 3
+								},
+								{
+									"symbolIndex": 7,
+									"name": "LOW2",
+									"reel": 1,
+									"position": 2
+								},
+								{
+									"symbolIndex": 7,
+									"name": "LOW2",
+									"reel": 1,
+									"position": 3
+								},
+								{
+									"symbolIndex": 7,
+									"name": "LOW2",
+									"reel": 2,
+									"position": 3
+								}
+							],
+							"type": 1,
+							"pattern": 0,
+							"kind": 2,
+							"payline": 0,
+							"marker": -1,
+							"hits": 3,
+							"wonCredits": 120,
+							"multiplier": 1,
+							"bonusIndex": 0,
+							"coordinates": null,
+							"bonus": false
+						}
+					],
+					"reelsSlices": [
+						[
+							13,
+							13,
+							7,
+							7
+						],
+						[
+							12,
+							12,
+							7,
+							7
+						],
+						[
+							13,
+							13,
+							5,
+							7
+						],
+						[
+							8,
+							11,
+							11,
+							12
+						],
+						[
+							9,
+							3,
+							6,
+							5
+						],
+						[
+							6,
+							7,
+							11,
+							2
+						]
+					],
+					"bonusWonIndex": -1
+				}
+			},
+			{
+				"cascade": {
+					"wonCredits": 160,
+					"freeGames": 0,
+					"bonusWon": [],
+					"wonPrizes": [
+						{
+							"name": "LOW6",
+							"nextStage": "",
+							"prizeType": "",
+							"symbols": [
+								{
+									"symbolIndex": 11,
+									"name": "LOW6",
+									"reel": 0,
+									"position": 0
+								},
+								{
+									"symbolIndex": 11,
+									"name": "LOW6",
+									"reel": 0,
+									"position": 1
+								},
+								{
+									"symbolIndex": 11,
+									"name": "LOW6",
+									"reel": 1,
+									"position": 0
+								},
+								{
+									"symbolIndex": 11,
+									"name": "LOW6",
+									"reel": 1,
+									"position": 1
+								},
+								{
+									"symbolIndex": 11,
+									"name": "LOW6",
+									"reel": 2,
+									"position": 0
+								},
+								{
+									"symbolIndex": 11,
+									"name": "LOW6",
+									"reel": 2,
+									"position": 1
+								},
+								{
+									"symbolIndex": 11,
+									"name": "LOW6",
+									"reel": 3,
+									"position": 2
+								},
+								{
+									"symbolIndex": 11,
+									"name": "LOW6",
+									"reel": 3,
+									"position": 3
+								}
+							],
+							"type": 1,
+							"pattern": 0,
+							"kind": 2,
+							"payline": 0,
+							"marker": -1,
+							"hits": 4,
+							"wonCredits": 160,
+							"multiplier": 1,
+							"bonusIndex": 0,
+							"coordinates": null,
+							"bonus": false
+						}
+					],
+					"reelsSlices": [
+						[
+							11,
+							11,
+							3,
+							13,
+							13
+						],
+						[
+							11,
+							11,
+							3,
+							12,
+							12
+						],
+						[
+							11,
+							11,
+							13,
+							13,
+							5
+						],
+						[
+							12,
+							8,
+							11,
+							11,
+							12
+						],
+						[
+							5,
+							9,
+							3,
+							6,
+							5
+						],
+						[
+							12,
+							6,
+							7,
+							11,
+							2
+						]
+					],
+					"bonusWonIndex": -1
+				}
+			},
+			{
+				"cascade": {
+					"wonCredits": 140,
+					"freeGames": 0,
+					"bonusWon": [],
+					"wonPrizes": [
+						{
+							"name": "HIGH2",
+							"nextStage": "",
+							"prizeType": "",
+							"symbols": [
+								{
+									"symbolIndex": 3,
+									"name": "HIGH2",
+									"reel": 0,
+									"position": 3
+								},
+								{
+									"symbolIndex": 3,
+									"name": "HIGH2",
+									"reel": 1,
+									"position": 3
+								},
+								{
+									"symbolIndex": 3,
+									"name": "HIGH2",
+									"reel": 2,
+									"position": 1
+								},
+								{
+									"symbolIndex": 3,
+									"name": "HIGH2",
+									"reel": 2,
+									"position": 2
+								}
+							],
+							"type": 1,
+							"pattern": 0,
+							"kind": 2,
+							"payline": 0,
+							"marker": -1,
+							"hits": 3,
+							"wonCredits": 140,
+							"multiplier": 1,
+							"bonusIndex": 0,
+							"coordinates": null,
+							"bonus": false
+						}
+					],
+					"reelsSlices": [
+						[
+							10,
+							14,
+							13,
+							3,
+							13,
+							13
+						],
+						[
+							10,
+							10,
+							12,
+							3,
+							12,
+							12
+						],
+						[
+							9,
+							3,
+							3,
+							13,
+							13,
+							5
+						],
+						[
+							10,
+							13,
+							13,
+							12,
+							8,
+							12
+						],
+						[
+							11,
+							5,
+							9,
+							3,
+							6,
+							5
+						],
+						[
+							6,
+							12,
+							6,
+							7,
+							11,
+							2
+						]
+					],
+					"bonusWonIndex": -1
+				}
+			},
+			{
+				"cascade": {
+					"wonCredits": 0,
+					"freeGames": 0,
+					"bonusWon": [],
+					"wonPrizes": [],
+					"reelsSlices": [
+						[
+							13,
+							10,
+							10,
+							14,
+							13,
+							13,
+							13
+						],
+						[
+							12,
+							4,
+							10,
+							10,
+							12,
+							12,
+							12
+						],
+						[
+							11,
+							11,
+							7,
+							9,
+							13,
+							13,
+							5
+						],
+						[
+							10,
+							10,
+							13,
+							13,
+							12,
+							8,
+							12
+						],
+						[
+							6,
+							11,
+							5,
+							9,
+							3,
+							6,
+							5
+						],
+						[
+							2,
+							6,
+							12,
+							6,
+							7,
+							11,
+							2
+						]
+					],
+					"bonusWonIndex": -1
+				}
+			},
+			{
+				"basespin": {
+					"wonCredits": 40,
+					"freeGames": 0,
+					"bonusWon": [],
+					"wonPrizes": [
+						{
+							"name": "LOW7",
+							"nextStage": "",
+							"prizeType": "",
+							"symbols": [
+								{
+									"symbolIndex": 12,
+									"name": "LOW7",
+									"reel": 0,
+									"position": 0
+								},
+								{
+									"symbolIndex": 12,
+									"name": "LOW7",
+									"reel": 0,
+									"position": 1
+								},
+								{
+									"symbolIndex": 12,
+									"name": "LOW7",
+									"reel": 1,
+									"position": 2
+								},
+								{
+									"symbolIndex": 12,
+									"name": "LOW7",
+									"reel": 1,
+									"position": 3
+								},
+								{
+									"symbolIndex": 12,
+									"name": "LOW7",
+									"reel": 2,
+									"position": 3
+								},
+								{
+									"symbolIndex": 12,
+									"name": "LOW7",
+									"reel": 3,
+									"position": 3
+								}
+							],
+							"type": 1,
+							"pattern": 0,
+							"kind": 2,
+							"payline": 0,
+							"marker": -1,
+							"hits": 4,
+							"wonCredits": 40,
+							"multiplier": 1,
+							"bonusIndex": 0,
+							"coordinates": null,
+							"bonus": false
+						}
+					],
+					"reelsSlices": [
+						[
+							12,
+							12,
+							10,
+							10
+						],
+						[
+							6,
+							6,
+							12,
+							12
+						],
+						[
+							13,
+							13,
+							5,
+							12
+						],
+						[
+							13,
+							13,
+							2,
+							12
+						],
+						[
+							5,
+							8,
+							3,
+							3
+						],
+						[
+							9,
+							5,
+							5,
+							6
+						]
+					],
+					"bonusWonIndex": -1
+				}
+			},
+			{
+				"cascade": {
+					"wonCredits": 0,
+					"freeGames": 0,
+					"bonusWon": [],
+					"wonPrizes": [],
+					"reelsSlices": [
+						[
+							7,
+							14,
+							5,
+							10,
+							10
+						],
+						[
+							6,
+							14,
+							3,
+							6,
+							6
+						],
+						[
+							5,
+							12,
+							13,
+							13,
+							5
+						],
+						[
+							3,
+							12,
+							13,
+							13,
+							2
+						],
+						[
+							10,
+							5,
+							8,
+							3,
+							3
+						],
+						[
+							4,
+							9,
+							5,
+							5,
+							6
+						]
+					],
+					"bonusWonIndex": -1
+				}
+			},
+			{
+				"basespin": {
+					"wonCredits": 210,
+					"freeGames": 0,
+					"bonusWon": [],
+					"wonPrizes": [
+						{
+							"name": "HIGH2",
+							"nextStage": "",
+							"prizeType": "",
+							"symbols": [
+								{
+									"symbolIndex": 3,
+									"name": "HIGH2",
+									"reel": 0,
+									"position": 2
+								},
+								{
+									"symbolIndex": 3,
+									"name": "HIGH2",
+									"reel": 1,
+									"position": 1
+								},
+								{
+									"symbolIndex": 3,
+									"name": "HIGH2",
+									"reel": 2,
+									"position": 0
+								}
+							],
+							"type": 1,
+							"pattern": 0,
+							"kind": 2,
+							"payline": 0,
+							"marker": -1,
+							"hits": 3,
+							"wonCredits": 210,
+							"multiplier": 1,
+							"bonusIndex": 0,
+							"coordinates": null,
+							"bonus": false
+						}
+					],
+					"reelsSlices": [
+						[
+							7,
+							7,
+							3,
+							11
+						],
+						[
+							12,
+							3,
+							6,
+							6
+						],
+						[
+							3,
+							9,
+							7,
+							11
+						],
+						[
+							4,
+							7,
+							5,
+							10
+						],
+						[
+							13,
+							13,
+							1,
+							9
+						],
+						[
+							11,
+							2,
+							10,
+							1
+						]
+					],
+					"bonusWonIndex": -1
+				}
+			},
+			{
+				"cascade": {
+					"wonCredits": 560,
+					"freeGames": 0,
+					"bonusWon": [],
+					"wonPrizes": [
+						{
+							"name": "LOW2",
+							"nextStage": "",
+							"prizeType": "",
+							"symbols": [
+								{
+									"symbolIndex": 7,
+									"name": "LOW2",
+									"reel": 0,
+									"position": 2
+								},
+								{
+									"symbolIndex": 7,
+									"name": "LOW2",
+									"reel": 0,
+									"position": 3
+								},
+								{
+									"symbolIndex": 1,
+									"name": "WILD",
+									"reel": 1,
+									"position": 1
+								},
+								{
+									"symbolIndex": 7,
+									"name": "LOW2",
+									"reel": 2,
+									"position": 3
+								},
+								{
+									"symbolIndex": 7,
+									"name": "LOW2",
+									"reel": 3,
+									"position": 2
+								},
+								{
+									"symbolIndex": 1,
+									"name": "WILD",
+									"reel": 4,
+									"position": 3
+								},
+								{
+									"symbolIndex": 1,
+									"name": "WILD",
+									"reel": 5,
+									"position": 4
+								}
+							],
+							"type": 1,
+							"pattern": 0,
+							"kind": 2,
+							"payline": 0,
+							"marker": -1,
+							"hits": 6,
+							"wonCredits": 480,
+							"multiplier": 1,
+							"bonusIndex": 0,
+							"coordinates": null,
+							"bonus": false
+						},
+						{
+							"name": "LOW6",
+							"nextStage": "",
+							"prizeType": "",
+							"symbols": [
+								{
+									"symbolIndex": 11,
+									"name": "LOW6",
+									"reel": 0,
+									"position": 1
+								},
+								{
+									"symbolIndex": 11,
+									"name": "LOW6",
+									"reel": 0,
+									"position": 4
+								},
+								{
+									"symbolIndex": 1,
+									"name": "WILD",
+									"reel": 1,
+									"position": 1
+								},
+								{
+									"symbolIndex": 11,
+									"name": "LOW6",
+									"reel": 2,
+									"position": 1
+								},
+								{
+									"symbolIndex": 11,
+									"name": "LOW6",
+									"reel": 2,
+									"position": 4
+								}
+							],
+							"type": 1,
+							"pattern": 0,
+							"kind": 2,
+							"payline": 0,
+							"marker": -1,
+							"hits": 3,
+							"wonCredits": 80,
+							"multiplier": 1,
+							"bonusIndex": 0,
+							"coordinates": null,
+							"bonus": false
+						}
+					],
+					"reelsSlices": [
+						[
+							13,
+							11,
+							7,
+							7,
+							11
+						],
+						[
+							8,
+							1,
+							12,
+							6,
+							6
+						],
+						[
+							2,
+							11,
+							9,
+							7,
+							11
+						],
+						[
+							10,
+							4,
+							7,
+							5,
+							10
+						],
+						[
+							9,
+							13,
+							13,
+							1,
+							9
+						],
+						[
+							8,
+							11,
+							2,
+							10,
+							1
+						]
+					],
+					"bonusWonIndex": -1
+				}
+			},
+			{
+				"cascade": {
+					"wonCredits": 0,
+					"freeGames": 0,
+					"bonusWon": [],
+					"wonPrizes": [],
+					"reelsSlices": [
+						[
+							13,
+							13,
+							10,
+							10,
+							13,
+							13
+						],
+						[
+							2,
+							8,
+							8,
+							12,
+							6,
+							6
+						],
+						[
+							4,
+							12,
+							12,
+							6,
+							2,
+							9
+						],
+						[
+							11,
+							11,
+							10,
+							4,
+							5,
+							10
+						],
+						[
+							4,
+							8,
+							9,
+							13,
+							13,
+							9
+						],
+						[
+							6,
+							8,
+							8,
+							11,
+							2,
+							10
+						]
+					],
+					"bonusWonIndex": -1
+				}
+			},
+			{
+				"basespin": {
+					"wonCredits": 0,
+					"freeGames": 0,
+					"bonusWon": [],
+					"wonPrizes": [],
+					"reelsSlices": [
+						[
+							13,
+							13,
+							10,
+							10
+						],
+						[
+							10,
+							10,
+							12,
+							12
+						],
+						[
+							12,
+							12,
+							7,
+							11
+						],
+						[
+							10,
+							4,
+							7,
+							5
+						],
+						[
+							7,
+							11,
+							9,
+							3
+						],
+						[
+							8,
+							6,
+							12,
+							9
+						]
+					],
+					"bonusWonIndex": -1
+				}
+			},
+			{
+				"basespin": {
+					"wonCredits": 0,
+					"freeGames": 0,
+					"bonusWon": [],
+					"wonPrizes": [],
+					"reelsSlices": [
+						[
+							10,
+							10,
+							13,
+							13
+						],
+						[
+							1,
+							8,
+							11,
+							11
+						],
+						[
+							7,
+							11,
+							11,
+							3
+						],
+						[
+							9,
+							12,
+							12,
+							12
+						],
+						[
+							7,
+							2,
+							2,
+							13
+						],
+						[
+							9,
+							5,
+							12,
+							4
+						]
+					],
+					"bonusWonIndex": -1
+				}
+			}
+		]
+	]
+}

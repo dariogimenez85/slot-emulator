@@ -1,0 +1,125 @@
+{
+    "gridWidth": 6,
+    "gridHeight": 4,
+    "gridX":30,
+    "gridY":100,
+    "symbolSize":150,
+    "slotType": "ways",
+    "symbols": [
+        {
+            "id": 1,
+            "name": "WILD",
+            "shortname": "WI",
+            "wild": true,
+            "scatter": false
+        },
+        {
+            "id": 2,
+            "name": "HIGH1",
+            "shortname": "H1",
+            "wild": false,
+            "scatter": false
+        },
+        {
+            "id": 3,
+            "name": "HIGH2",
+            "shortname": "H2",
+            "wild": false,
+            "scatter": false
+        },
+        {
+            "id": 4,
+            "name": "HIGH3",
+            "shortname": "H3",
+            "wild": false,
+            "scatter": false
+        },
+        {
+            "id": 5,
+            "name": "HIGH4",
+            "shortname": "H4",
+            "wild": false,
+            "scatter": false
+        },
+        {
+            "id": 6,
+            "name": "LOW1",
+            "shortname": "L1",
+            "wild": false,
+            "scatter": false
+        },
+        {
+            "id": 7,
+            "name": "LOW2",
+            "shortname": "L2",
+            "wild": false,
+            "scatter": false
+        },
+        {
+            "id": 8,
+            "name": "LOW3",
+            "shortname": "L3",
+            "wild": false,
+            "scatter": false
+        },
+        {
+            "id": 9,
+            "name": "LOW4",
+            "shortname": "L4",
+            "wild": false,
+            "scatter": false
+        },
+        {
+            "id": 10,
+            "name": "LOW5",
+            "shortname": "L5",
+            "wild": false,
+            "scatter": false
+        },
+        {
+            "id": 11,
+            "name": "LOW6",
+            "shortname": "L6",
+            "wild": false,
+            "scatter": false
+        },
+        {
+            "id": 12,
+            "name": "LOW7",
+            "shortname": "L7",
+            "wild": false,
+            "scatter": false
+        },
+        {
+            "id": 13,
+            "name": "LOW8",
+            "shortname": "L8",
+            "wild": false,
+            "scatter": false
+        },
+        {
+            "id": 14,
+            "name": "SCAT",
+            "shortname": "SC",
+            "type": "scatter",
+            "wild": false,
+            "scatter": true
+        },
+        {
+            "id": 15,
+            "name": "NOTHING",
+            "shortname": "x",
+            "wild": false,
+            "scatter": false
+        }
+    ],
+    "reels": {
+        "r0": [4,15,15,3,4,2,14,7,4,10,11,10,5,2,10,13,7,8,9,10,5,7,6,10,14,3,15,1,4,8],
+        "r1": [15,11,6,10,10,3,7,7,4,3,12,8,9,6,8,8,12,15,3,9,15,9,9,11,8,14,13,9,7,3],
+        "r2": [8,1,2,11,1,9,13,2,5,4,11,2,15,13,8,6,10,14,1,11,4,11,5,13,12,14,15,2,8,10],
+        "r3": [8,13,2,4,3,8,8,2,12,8,1,1,2,9,8,6,5,12,14,15,11,1,11,5,8,4,13,15,3,8],
+        "r4": [15,12,7,8,4,4,9,8,6,6,3,9,15,12,2,3,15,6,8,6,13,15,10,8,9,5,14,10,9,7],
+        "r5": [6,2,3,9,14,4,10,5,2,2,13,11,13,14,13,3,9,2,8,10,10,4,2,13,9,15,5,2,1,3]
+    },
+    "debug": false
+}

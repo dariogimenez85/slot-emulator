@@ -1,0 +1,528 @@
+{
+    "spins": [
+        [
+            {
+                "basespin": {
+                    "wonCredits": 0,
+                    "freeGames": 0,
+                    "bonusWon": [],
+                    "wonPrizes": [],
+                    "reelsSlices": [
+                        [
+                            9,
+                            10,
+                            10,
+                            9
+                        ],
+                        [
+                            4,
+                            12,
+                            12,
+                            2
+                        ],
+                        [
+                            14,
+                            5,
+                            12,
+                            3
+                        ],
+                        [
+                            10,
+                            10,
+                            5,
+                            6
+                        ],
+                        [
+                            10,
+                            3,
+                            3,
+                            8
+                        ],
+                        [
+                            12,
+                            2,
+                            11,
+                            7
+                        ]
+                    ],
+                    "bonusWonIndex": -1
+                }
+            }
+        ],
+        [
+            {
+                "basespin": {
+                    "wonCredits": 0,
+                    "freeGames": 0,
+                    "bonusWon": [],
+                    "wonPrizes": [],
+                    "reelsSlices": [
+                        [
+                            5,
+                            5,
+                            13,
+                            13
+                        ],
+                        [
+                            12,
+                            12,
+                            4,
+                            4
+                        ],
+                        [
+                            12,
+                            5,
+                            13,
+                            13
+                        ],
+                        [
+                            10,
+                            8,
+                            12,
+                            12
+                        ],
+                        [
+                            13,
+                            2,
+                            9,
+                            2
+                        ],
+                        [
+                            5,
+                            9,
+                            2,
+                            7
+                        ]
+                    ],
+                    "bonusWonIndex": -1
+                }
+            }
+        ],
+        [
+            {
+                "basespin": {
+                    "wonCredits": 0,
+                    "freeGames": 0,
+                    "bonusWon": [],
+                    "wonPrizes": [],
+                    "reelsSlices": [
+                        [
+                            11,
+                            2,
+                            14,
+                            6
+                        ],
+                        [
+                            8,
+                            1,
+                            9,
+                            9
+                        ],
+                        [
+                            7,
+                            5,
+                            13,
+                            13
+                        ],
+                        [
+                            10,
+                            10,
+                            10,
+                            4
+                        ],
+                        [
+                            9,
+                            11,
+                            7,
+                            3
+                        ],
+                        [
+                            2,
+                            6,
+                            12,
+                            2
+                        ]
+                    ],
+                    "bonusWonIndex": -1
+                }
+            }
+        ],
+        [
+            {
+                "basespin": {
+                    "wonCredits": 10,
+                    "freeGames": 0,
+                    "bonusWon": [],
+                    "wonPrizes": [
+                        {
+                            "name": "LOW7",
+                            "symbols": [
+                                {
+                                    "symbolIndex": 12,
+                                    "name": "LOW7",
+                                    "reel": 0,
+                                    "position": 3
+                                },
+                                {
+                                    "symbolIndex": 12,
+                                    "name": "LOW7",
+                                    "reel": 1,
+                                    "position": 0
+                                },
+                                {
+                                    "symbolIndex": 12,
+                                    "name": "LOW7",
+                                    "reel": 1,
+                                    "position": 1
+                                },
+                                {
+                                    "symbolIndex": 12,
+                                    "name": "LOW7",
+                                    "reel": 2,
+                                    "position": 3
+                                }
+                            ],
+                            "hits": 3,
+                            "wonCredits": 10,
+                            "multiplier": 1,
+                            "bonusIndex": 0,
+                            "coordinates": null,
+                            "bonus": false
+                        }
+                    ],
+                    "reelsSlices": [
+                        [
+                            5,
+                            10,
+                            10,
+                            12
+                        ],
+                        [
+                            12,
+                            12,
+                            4,
+                            10
+                        ],
+                        [
+                            6,
+                            13,
+                            13,
+                            12
+                        ],
+                        [
+                            10,
+                            14,
+                            5,
+                            7
+                        ],
+                        [
+                            2,
+                            13,
+                            11,
+                            3
+                        ],
+                        [
+                            6,
+                            4,
+                            6,
+                            5
+                        ]
+                    ],
+                    "bonusWonIndex": -1
+                }
+            },
+            {
+                "cascade": {
+                    "wonCredits": 0,
+                    "freeGames": 0,
+                    "bonusWon": [],
+                    "wonPrizes": [],
+                    "reelsSlices": [
+                        [
+                            5,
+                            10,
+                            10,
+                            7,
+                            7
+                        ],
+                        [
+                            4,
+                            10,
+                            5,
+                            13,
+                            13
+                        ],
+                        [
+                            6,
+                            13,
+                            13,
+                            3,
+                            12
+                        ],
+                        [
+                            10,
+                            14,
+                            5,
+                            7,
+                            11
+                        ],
+                        [
+                            2,
+                            13,
+                            11,
+                            3,
+                            11
+                        ],
+                        [
+                            6,
+                            4,
+                            6,
+                            5,
+                            12
+                        ]
+                    ],
+                    "bonusWonIndex": -1
+                }
+            }
+        ],
+        [
+            {
+                "basespin": {
+                    "wonCredits": 15,
+                    "freeGames": 0,
+                    "bonusWon": [],
+                    "wonPrizes": [
+                        {
+                            "name": "LOW8",
+                            "symbols": [
+                                {
+                                    "symbolIndex": 13,
+                                    "name": "LOW8",
+                                    "reel": 0,
+                                    "position": 3
+                                },
+                                {
+                                    "symbolIndex": 13,
+                                    "name": "LOW8",
+                                    "reel": 1,
+                                    "position": 1
+                                },
+                                {
+                                    "symbolIndex": 13,
+                                    "name": "LOW8",
+                                    "reel": 2,
+                                    "position": 1
+                                },
+                                {
+                                    "symbolIndex": 13,
+                                    "name": "LOW8",
+                                    "reel": 2,
+                                    "position": 2
+                                },
+                                {
+                                    "symbolIndex": 13,
+                                    "name": "LOW8",
+                                    "reel": 2,
+                                    "position": 3
+                                }
+                            ],
+                            "hits": 3,
+                            "wonCredits": 15,
+                            "multiplier": 1,
+                            "bonusIndex": 0,
+                            "coordinates": null,
+                            "bonus": false
+                        }
+                    ],
+                    "reelsSlices": [
+                        [
+                            9,
+                            10,
+                            10,
+                            13
+                        ],
+                        [
+                            14,
+                            13,
+                            5,
+                            12
+                        ],
+                        [
+                            9,
+                            13,
+                            13,
+                            13
+                        ],
+                        [
+                            12,
+                            6,
+                            2,
+                            12
+                        ],
+                        [
+                            13,
+                            11,
+                            3,
+                            3
+                        ],
+                        [
+                            9,
+                            12,
+                            6,
+                            8
+                        ]
+                    ],
+                    "bonusWonIndex": -1
+                }
+            },
+            {
+                "cascade": {
+                    "wonCredits": 40,
+                    "freeGames": 0,
+                    "bonusWon": [],
+                    "wonPrizes": [
+                        {
+                            "name": "LOW4",
+                            "symbols": [
+                                {
+                                    "symbolIndex": 9,
+                                    "name": "LOW4",
+                                    "reel": 0,
+                                    "position": 0
+                                },
+                                {
+                                    "symbolIndex": 9,
+                                    "name": "LOW4",
+                                    "reel": 0,
+                                    "position": 3
+                                },
+                                {
+                                    "symbolIndex": 9,
+                                    "name": "LOW4",
+                                    "reel": 1,
+                                    "position": 4
+                                },
+                                {
+                                    "symbolIndex": 9,
+                                    "name": "LOW4",
+                                    "reel": 2,
+                                    "position": 0
+                                }
+                            ],
+                            "hits": 3,
+                            "wonCredits": 40,
+                            "multiplier": 1,
+                            "bonusIndex": 0,
+                            "coordinates": null,
+                            "bonus": false
+                        }
+                    ],
+                    "reelsSlices": [
+                        [
+                            9,
+                            10,
+                            10,
+                            9,
+                            4
+                        ],
+                        [
+                            14,
+                            5,
+                            12,
+                            4,
+                            9
+                        ],
+                        [
+                            9,
+                            12,
+                            13,
+                            13,
+                            6
+                        ],
+                        [
+                            12,
+                            6,
+                            2,
+                            12,
+                            12
+                        ],
+                        [
+                            13,
+                            11,
+                            3,
+                            3,
+                            2
+                        ],
+                        [
+                            9,
+                            12,
+                            6,
+                            8,
+                            7
+                        ]
+                    ],
+                    "bonusWonIndex": -1
+                }
+            },
+            {
+                "cascade": {
+                    "wonCredits": 0,
+                    "freeGames": 0,
+                    "bonusWon": [],
+                    "wonPrizes": [],
+                    "reelsSlices": [
+                        [
+                            10,
+                            10,
+                            4,
+                            11,
+                            11,
+                            3
+                        ],
+                        [
+                            14,
+                            5,
+                            12,
+                            4,
+                            9,
+                            11
+                        ],
+                        [
+                            12,
+                            13,
+                            13,
+                            6,
+                            3,
+                            12
+                        ],
+                        [
+                            12,
+                            6,
+                            2,
+                            12,
+                            12,
+                            12
+                        ],
+                        [
+                            13,
+                            11,
+                            3,
+                            3,
+                            2,
+                            11
+                        ],
+                        [
+                            9,
+                            12,
+                            6,
+                            8,
+                            7,
+                            2
+                        ]
+                    ],
+                    "bonusWonIndex": -1
+                }
+            }
+        ]
+    ]
+}
